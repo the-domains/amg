@@ -1,0 +1,23 @@
+name: AMG
+favicon: null
+layout_spectrum: 0.31163910194300115
+typography_spectrum: 0.3647176984231919
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.14520395710133016
+  lightness: 0.3198126663919538
+  saturation: 0.8232000931166112
+  rhythmicContrast: 0.4919372370932251
+purpose: []
